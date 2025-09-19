@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I’m Lazaro Alvarez  
 
-<!--
-**lazasaurus-ai/lazasaurus-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started my journey in data science, leveraging my background in machine learning and analytics to extract insights from complex datasets. Over time, I transitioned into cloud engineering, where I now design scalable, efficient cloud architectures. With expertise in both fields, I bridge the gap between data-driven applications and cloud infrastructure, ensuring seamless integration of AI/ML solutions into enterprise environments.  
 
-Here are some ideas to get you started:
+I’m a **5x AWS-certified professional** working at the intersection of **AI/ML and Cloud Engineering**. My current focus is on building **AWS-powered AI solutions**, creating **MLOps pipelines**, and developing **open source R and Python packages** for knowledge retrieval, context management, and generative AI workflows.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Interests  
+
+- AI/ML Engineering & Applied Data Science  
+- Cloud Solutions (AWS: EC2, S3, Lambda, SageMaker, Bedrock, etc.)  
+- MLOps & DevOps for AI/ML workflows  
+- R & Python for analytics, automation, and applied ML  
+- Open source collaboration & knowledge sharing  
+
+---
+
+### 🤝 External Contributions  
+
+I’ve contributed to projects outside my own repositories, including:  
+
+- [**MDRCNY/kbretrieveR**](https://github.com/MDRCNY/kbretrieveR) — R package for retrieving and integrating AWS Bedrock Knowledge Bases into R workflows.  
+
+---
+
+### 📫 Connect  
+
+- [LinkedIn](https://www.linkedin.com/in/lazaro-alvarez-552078145/)  
+- [GitHub](https://github.com/lazasaurus-ai)  
