@@ -26,5 +26,6 @@ I’ve contributed to projects outside my own repositories, including:
 
 ### 📫 Connect  
 
-- [LinkedIn](https://www.linkedin.com/in/lazaro-alvarez-552078145/)  
+- [LinkedIn](https://www.linkedin.com/in/lazaro-alvarez-552078145/)
+- [Credly](https://www.credly.com/users/lazaro-alvarez.34d5e9d4/badges#credly)
 - [GitHub](https://github.com/lazasaurus-ai)  
