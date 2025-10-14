@@ -21,7 +21,7 @@ I’m a **5x AWS-certified professional** working at the intersection of **AI/ML
 I’ve contributed to projects outside my own repositories, including:  
 
 - [**MDRCNY/kbretrieveR**](https://github.com/MDRCNY/kbretrieveR) — R package for retrieving and integrating AWS Bedrock Knowledge Bases into R workflows.  
-
+- [**MDRCNY/documentoR**](https://github.com/MDRCNY/documentoR) — AI-assisted documentation for R projects. 
 ---
 
 ### 📫 Connect  
