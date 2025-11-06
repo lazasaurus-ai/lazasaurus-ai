@@ -2,7 +2,7 @@
 
 I started my journey in data science, leveraging my background in machine learning and analytics to extract insights from complex datasets. Over time, I transitioned into cloud engineering, where I now design scalable, efficient cloud architectures. With expertise in both fields, I bridge the gap between data-driven applications and cloud infrastructure, ensuring seamless integration of AI/ML solutions into enterprise environments.  
 
-I’m a **5x AWS-certified professional** working at the intersection of **AI/ML and Cloud Engineering**. My current focus is on building **AWS-powered AI solutions**, creating **MLOps pipelines**, and developing **open source R and Python packages** for knowledge retrieval, context management, and generative AI workflows.  
+I’m a **6x AWS-certified professional** working at the intersection of **AI/ML and Cloud Engineering**. My current focus is on building **AWS-powered AI solutions**, creating **MLOps pipelines**, and developing **open source R and Python packages** for knowledge retrieval, context management, and generative AI workflows.  
 
 ---
 
